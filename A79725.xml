@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Directions of the Generall Assembly concerning secret and private worship, and mutual edification, for cherishing piety, for maintaining unity, and avoyding schism and division. With an act for observing these directions, and for censuring such as use to neglect family worship. And an act against such as withdraw themselves from the publick worship in their own congregations.</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79725</idno>
+            <idno type="STC">Wing C4223</idno>
+            <idno type="STC">Thomason E406_6</idno>
+            <idno type="STC">ESTC R201908</idno>
+            <idno type="EEBO-CITATION">99862391</idno>
+            <idno type="PROQUEST">99862391</idno>
+            <idno type="VID">160484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160484)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Directions of the Generall Assembly concerning secret and private worship, and mutual edification, for cherishing piety, for maintaining unity, and avoyding schism and division. With an act for observing these directions, and for censuring such as use to neglect family worship. And an act against such as withdraw themselves from the publick worship in their own congregations.</title>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Edenburgh by Evan Tyler, printer to the Kings most Excellent Majesty. 1647. And reprinted for Robert Bostock at the Kings head in Pauls Church-yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church attendance --  Scotland --  Early works to 1800.</term>
+               <term>Public worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160484:1" rendition="simple:additions"/>
+            <p>DIRECTIONS OF THE GENERALL ASSEMBLY Concerning Secret and Private <hi>WORSHIP,</hi> and mutual edification, for cheriſh<g ref="char:EOLhyphen"/>ing Piety, for maintaining Unity, and avoyding Schiſm and Diviſion.</p>
+            <p>WITH An Act for obſerving theſe <hi>Directions,</hi> and for cenſuring ſuch as uſe to neglect <hi>FAMILY WORSHIP.</hi>
+            </p>
+            <p>AND An Act againſt ſuch as withdraw themſelves from the Publick Worſhip in their own CONGREGATIONS.</p>
+            <p>Printed at <hi>Edenburgh</hi> by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty. 1647. And Reprinted for <hi>Robert Boſtock</hi> at the Kings head in <hi>Pauls</hi> Church-yard, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:160484:2"/>
+            <pb n="3" facs="tcp:160484:2"/>
+            <head>
+               <hi>Edinb. 24. Aug. 1647. Seſſ. 19.</hi> Act for obſerving the following Directi<g ref="char:EOLhyphen"/>ons, and for cenſuring ſuch as uſe to neglect Family Worſhip.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He General Aſſembly, after ma<g ref="char:EOLhyphen"/>ture deliberation, doth approve the following Rules and Directi<g ref="char:EOLhyphen"/>ons, for cheriſhing Piety and pre<g ref="char:EOLhyphen"/>venting Diviſion and Schiſme, and doth appoint Miniſters &amp; Ru<g ref="char:EOLhyphen"/>ling Elders in each Congregation to take ſpecial care that theſe Di<g ref="char:EOLhyphen"/>rections be obſerved and followed; As likewiſe that Presbyteries and Provincial Synods enquire and make tryal whether the ſaid Directions be duly obſerved in their bounds, and to reprove or cenſure (according to the quality of the offence) ſuch as ſhal be found to be re<g ref="char:EOLhyphen"/>proveable or cenſurable therin. And to the end that
+<pb n="4" facs="tcp:160484:3"/>
+theſe Directions may not be rendred ineffectual and un<g ref="char:EOLhyphen"/>profitable among ſome through the uſual neglect of the very ſubſtance of the duty of Family Worſhip, The Aſſemby doth further require and appoint Miniſters and Ruling Elders, to make diligent ſearch and enquiry in the Congregations committed to their charge reſpe<g ref="char:EOLhyphen"/>ctively, whether there be among them any Family or Families which uſe to neglect this neceſſary duty; And if any ſuch Family be found, the head of that Family is to be firſt admoniſhed privately to amend this fault; And in caſe of his continuing therein, he is to be gravely and ſadly reproved by the Seſſion. After which reproof, if he be found ſtil to neglect Family Worſhip, Let him befor his obſtinacy, inſuch an offenc,e ſuſpended and debarred from the Lords Supper as being juſtly eſteem<g ref="char:EOLhyphen"/>ed unworthy to communicate therein till he amend.</p>
+            <closer>
+               <signed>A. Ker,</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <pb n="5" facs="tcp:160484:3"/>
+            <head>DIRECTIONS OF THE General Aſſembly, concerning Secret and Private Worſhip and mutual edification, for cheriſhing Piety, for maitaining Unity, and avoyding Schiſm and Diviſion.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eſides the publick Worſhip in Con<g ref="char:EOLhyphen"/>gregations, mercifully eſtabliſhed in this Land, in great purity; It is expedient and neceſſary, that Secret Worſhip of each perſon alone, and Private Worſhip of Families be preſ<g ref="char:EOLhyphen"/>ſed and ſet up, That with National Reformation, the profeſſion and power of Godlineſs both Perſonal and Domeſtick be advanced.</p>
+            <p n="1">I. And firſt fot Secret Worſhip; It is moſt neceſ<g ref="char:EOLhyphen"/>ſary, that every one apart and by themſelves be given to Prayer and Meditation; The unſpeakable benefit whereof is beſt known to them who are moſt exerci<g ref="char:EOLhyphen"/>ſed therein; This being the mean whereby in a ſpecial way communion with God is entertained, and right preparation for all other duties obtained; And there<g ref="char:EOLhyphen"/>fore it becometh not only Paſtours, within their ſe<g ref="char:EOLhyphen"/>veral Charges, to preſs Perſons of all ſorts to per<g ref="char:EOLhyphen"/>forme
+<pb n="6" facs="tcp:160484:4"/>
+this duty Morning and Evening, and at other occaſions, but alſo it is incumbent to the head of eve<g ref="char:EOLhyphen"/>ry Family, to have a care that both themſelves and all within their charge be daily diligent herein.</p>
+            <p n="2">II. The ordinary duties comprehended under the exerciſe of Piety, which ſhould be in Families when they are conveened to that effect, are theſe: Firſt, Prayer and Praiſes performed, with a ſpecial reference as wel to the publick condition of the Kirk of God and this Kingdom, as to the preſent caſe of the Family, and every member thereof. Next, Reading of Scrip<g ref="char:EOLhyphen"/>tures with Catechizing in a plain way, that the un<g ref="char:EOLhyphen"/>derſtandings of the ſimple may be the better enabled to profit under the publick Ordinances, and they made more capable to underſtand the Scriptures when they are read; Together with godly conferences ten<g ref="char:EOLhyphen"/>ding to the edification of all the members in the moſt holy faith: As alſo, admonition and rebuke upon juſt reaſons from thoſe who have Authority in the Family.</p>
+            <p n="3">III. As the Charge and Office of interpreting the holy Scriptures, is a part of the Miniſterial calling, which none (howſoever otherwiſe qualified) ſhould take upon him in any place, but he that is duly called thereunto by God and his Kirk: So in every Family where there is any that can read, The holy Scriptures ſhould be read ordinarily to the Family; And it is commendable that thereafter they confer, and by way of conference make ſome good uſe of what hath been read and heard: As for example, if any ſin be repro<g ref="char:EOLhyphen"/>ved
+<pb n="7" facs="tcp:160484:4"/>
+in the Word read, uſe may be made thereof, to make all the Family circumſpect and watchful againſt the ſame; Or, if any judgment be threatned or men<g ref="char:EOLhyphen"/>tioned to have been inflicted in that portion of Scrip<g ref="char:EOLhyphen"/>ture which is read, uſe may be made to make all the Family fear, leſt the ſame or a worſe judgment be<g ref="char:EOLhyphen"/>fall them, unleſs they beware of the ſin that procured it: And finally, if any duty be required, or comfort held forth in a promiſe, uſe may be made to ſtir up themſelves to imploy Chriſt for ſtrength to enable them for doing the commanded duty, and to apply the offered comfort; In all which the Maſter of the Family is to have the chief hand, And any member of the Family may propone one queſtion or doubt for reſolution.</p>
+            <p n="4">IIII. The head of the Family is to take care that none of the Family withdraw himſelf from any part of Family worſhip; And ſeeing the ordinary perfor<g ref="char:EOLhyphen"/>mance of all the parts of Family-worſhip belongeth properly to the head of the Family, The Miniſter is to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r up ſuch as are laſie, and train up ſuch as are weak to a fitneſs for theſe exerciſes. It being always free to perſons of quality to entertain one approved by the Presbytery for performing Family exerciſe; And in other families where the head of the Family is unfit that another conſtantly reſiding in the Family approved by the Miniſter and Seſſion, may be im<g ref="char:EOLhyphen"/>ployed in that ſervice; Wherein the Miniſter and Seſſion are to be countable to the Presbytery. And if a Miniſter by divine providence be brought to any Family, It is requiſite, that at no time he conveen
+<pb n="8" facs="tcp:160484:5"/>
+a part of the Family for Worſhip ſecluding the reſt; Except in ſingular caſes; ſpecially concerning theſe parties, which (in Chriſtian prudence) need not, or ought not to be imparted to others.</p>
+            <p n="5">V. Let no Idler who hath no particular calling, or vagrant perſon under pretence of a calling, be ſuffer<g ref="char:EOLhyphen"/>ed to perform Worſhip in Families, to or for the ſame; Seeing perſons tainted with errors or aiming at diviſion, may be ready (after that manner) to creep into houſes and lead captive ſilly and unſtable ſouls.</p>
+            <p n="6">VI. At Family Worſhip a ſpecial care is to be had, that each Family keep by themſelves; Neither requiring, inviting, nor admitting perſons from divers Families; Unleſs it be thoſe who are lodged with them or at meal, or otherwiſe with them upon ſome lawful occaſion.</p>
+            <p n="7">VII. Whatſoever hath been the effects and fruits of meetings of perſons of divers Families in the times of corruption or trouble (in which caſes many things are commendable, which otherwiſe are not tolerable) Yet when God hath bleſſed us with Peace and the Pu<g ref="char:EOLhyphen"/>rity of the Goſpel, ſuch meetings of perſons of divers families (except in the caſes mentioned in theſe dire<g ref="char:EOLhyphen"/>ctions) are to be diſapproved, as tending to the hinde<g ref="char:EOLhyphen"/>rance of the Religious exerciſe of each Family by it ſelf, to the prejudice of the Publick Miniſtry, to the renting of the Families of particular Congregations, &amp; (in progreſs of time) of the whole Kirk; beſides ma<g ref="char:EOLhyphen"/>ny offences which may come thereby, to the hard<g ref="char:EOLhyphen"/>ning
+<pb n="9" facs="tcp:160484:5"/>
+of the hearts of carnal men, and grief of the godly.</p>
+            <p n="8">VIII. On the Lords day, after every one of the Family apart, and the whole Family together have ſought the Lord (in whoſe hands the preparation of mens hearts are) to fit them for the Publike Worſhip, and to bleſſe to them the Publike Ordinances; The Maſter of the Family ought to take care that all with<g ref="char:EOLhyphen"/>in his charge repair to the publike Worſhip, that he and they may joyn with the reſt of the Congregation; And, the publike Worſhip being finiſhed, after prayer, he ſhould take an account what they have heard, And thereafter to ſpend the reſt of the time which they may ſpare, in Catechizing and in Spiritual Conferences up<g ref="char:EOLhyphen"/>on the Word of God; Or elſe (going apart) they ought to apply themſelves to reading, meditation, and ſecret prayer, that they may confirm and increaſe their Communion with God; That ſo the profit which they found in the publike Ordinances may be cheriſhed and promoved, and they more edified unto eternal life.</p>
+            <p n="9">IX. So many as can conceive Prayer, ought to make uſe of that gift of God: Albeit theſe who are rude and weaker may begin at a ſet Form of Prayer; But ſo, as they be not ſluggiſh in ſtirring up in themſelves (ac<g ref="char:EOLhyphen"/>cording to their daily neceſſities) the ſpirit of Prayer, which is given to all the children of God in ſome mea<g ref="char:EOLhyphen"/>ſure. To which effect, they ought to be the more fervent and frequent in ſecret Prayer to God, for en<g ref="char:EOLhyphen"/>abling of their hearts to conceive, and their tongues to
+<pb n="10" facs="tcp:160484:6"/>
+expreſſe convenient deſires to God for their Family. And in the mean time, for their greater encouragement, let theſe materials of Prayer be meditated upon, and made uſe of, as followeth.</p>
+            <p>Let them confeſſe to God how unworthy they are to come in his preſence, and how unfit to wor<g ref="char:EOLhyphen"/>ſhip his Majeſtie; And therefore earneſtly ask of God the ſpirit of Prayer.</p>
+            <p>They are to confeſſe their ſins, and the ſins of the Family, accuſing, judging, and condemning themſelves for them, till they bring their ſouls to ſome meaſure of true humiliation.</p>
+            <p>They are to pour out their ſouls to God, in the Name of Chriſt, by the Spirit, for forgiveneſſe of ſins, for Grace to repent, to believe, and to live ſoberly, righteouſly, and godly; and that they may ſerve God with joy and delight, walking before him.</p>
+            <p>They are to give thanks to God for his many mercies to his People, and to themſelves, and eſpe<g ref="char:EOLhyphen"/>cially for his love in Chriſt, and for the light of the Goſpel.</p>
+            <p>They are to pray for ſuch particular benefits, Spiritual and Temporal, as they ſtand in need of for the time, (whether it be Morning or Evening) as health or ſickneſſe, proſperity or adverſity.</p>
+            <p>They ought to pray for the Kirk of Chriſt in general, for all the Reformed Kirks, and for this Kirk in particular, and for all that ſuffer for the Name of Chriſt, for all our Superiours, The Kings Majeſtie, the Queen, and their Children; for the Magiſtrates, Miniſters, and whole body of
+<pb n="11" facs="tcp:160484:6"/>
+the Congregation whereof they are members, as well for their Neighbours abſent in their lawful af<g ref="char:EOLhyphen"/>fairs, as for thoſe that are at home.</p>
+            <p>The Prayer may be cloſed with an earneſt deſire that God may be glorified in the coming of the Kingdom of his Son, and in the doing of his will; And with aſſurance that themſelves are accepted, and what they have aſked according to his will ſhall be done.</p>
+            <p n="10">X. Theſe Exerciſes ought to be performed in great ſincerity without delay, laying aſide all Exerciſes of worldly buſineſſe or hinderances, Notwithſtanding the mockings of Atheiſts and profane men; In re<g ref="char:EOLhyphen"/>ſpect of the great mercies of God to this Land, and of his ſevere Corrections wherewith lately he hath ex<g ref="char:EOLhyphen"/>erciſed us. And to this effect, perſons of eminencie (and all Elders of the Kirk) not onely ought to ſtir up themſelves and their Families to diligence herein; But alſo to concurr effectually, that in all other Families where they have Power and Charge, the ſaid exerciſes be conſcionably performed.</p>
+            <p n="11">XI. Beſides the ordinary duties in Families which are above-mentioned, extraordinary duties both of hu<g ref="char:EOLhyphen"/>miliation and thankſgiving are to be carefully perfor<g ref="char:EOLhyphen"/>med in Families, when the Lord by extraordinary oc<g ref="char:EOLhyphen"/>caſions (private or publick) calleth for them.</p>
+            <p n="12">XII. Seeing the Word of God requireth, That we ſhould conſider one another provoke unto love and good works; Therefore at all times, and eſpecially
+<pb n="12" facs="tcp:160484:7"/>
+in this time wherein profanity abounds, and mock<g ref="char:EOLhyphen"/>ers walking after their own luſts think it ſtrange that others run not with them to the ſame exceſſe of riot, Every member of this Kirk ought to ſtir up themſelves and one another to the duties of mutuall Edificati<g ref="char:EOLhyphen"/>on, by inſtruction, admonition, rebuke, exhorting one another to manifeſt the Grace of God, in denying un<g ref="char:EOLhyphen"/>godlineſſe and worldly luſts, and in living godly, ſo<g ref="char:EOLhyphen"/>berly and righteouſly in this preſent world, by com<g ref="char:EOLhyphen"/>forting the feeble-minded, and praying with, or for one another: Which duties reſpectively are to be per<g ref="char:EOLhyphen"/>formed upon ſpeciall occaſions offered by divine pro<g ref="char:EOLhyphen"/>vidence; As namely, when under any calamity, croſſe, or great difficulty, counſell or comfort is ſought: Or when an offender is to be reclaimed by private admo<g ref="char:EOLhyphen"/>nition; and if that be not effectuall, by joyning one or two more in the admonition, according to the rule of Chriſt; That in the mouth of two or three witneſſes every word may be eſtabliſhed.</p>
+            <p n="13">XIII. And becauſe it is not given to every one to ſpeak a word in ſeaſon to a wearied or diſtreſſed con<g ref="char:EOLhyphen"/>ſcience, It is expedient, that a perſon (in that caſe) finding no eaſe after the uſe of all ordinary means pri<g ref="char:EOLhyphen"/>vate and publick, have their addreſſe to their own Pa<g ref="char:EOLhyphen"/>ſtour, or ſome experienced Chriſtan: But if the per<g ref="char:EOLhyphen"/>ſon troubled in conſcience be of that condition, or of that ſex, that diſcretion, modeſty, or fear of ſcandall requireth a godly, grave, and ſecret friend to be preſent with them in their ſaid addreſſe, It is expedient that ſuch a friend be preſent.</p>
+            <p n="14">
+               <pb n="13" facs="tcp:160484:7"/>XIV. When perſons of divers Families are brought together by divine providence, being abroad upon their particular Vocations, or any neceſſary occaſions, As they would have the Lord their GOD with them whitherſoever they go, they ought to walk with GOD, and not neglect the duties of Prayer and Thankſgiving, but take care that the ſame be perform<g ref="char:EOLhyphen"/>ed by ſuch as the company ſhall judge fitteſt: And that they likewiſe take heed that no corrupt communicati<g ref="char:EOLhyphen"/>on proceed out of their mouth, but that which is good, to the uſe of edifying, that it may miniſter grace to the hearers.</p>
+            <p>The drift and ſcope of all theſe Directions is no o<g ref="char:EOLhyphen"/>ther, but that upon the one part the power and pra<g ref="char:EOLhyphen"/>ctice of godlineſſe among all the Miniſters and Mem<g ref="char:EOLhyphen"/>bers of this Kirk, according to their ſeverall places and vocations, may be cheriſhed and advanced, and all im<g ref="char:EOLhyphen"/>piety and mocking of Religious Exerciſes ſuppreſſed; And upon the other part, that under the name and pre<g ref="char:EOLhyphen"/>text of Religious Exerciſes, no ſuch meetings or pra<g ref="char:EOLhyphen"/>ctices be allowed as are apt to breed errour, ſcandall, ſchiſme, contempt or miſregard of the publick Ordi<g ref="char:EOLhyphen"/>nances and Miniſters, or neglect of the duties of parti<g ref="char:EOLhyphen"/>cular Callings, or ſuch other evils as are the works not of the Spirit, but of the Fleſh, and are contrary to Truth and Peace.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <pb n="14" facs="tcp:160484:8"/>
+            <head>Act againſt ſuch as with-draw themſelves from the publick worſhip in their own Congregation.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath pleaſed God of his infinite goodneſſe to bleſſe his Kirk within this Nation with the riches of the Goſpel, in giving to us his Ordinan<g ref="char:EOLhyphen"/>ces in great purity, liberty, and with<g ref="char:EOLhyphen"/>all, a comely and well-eſtabliſhed or<g ref="char:EOLhyphen"/>der: The Aſſembly, in the zeal of God, for preſerving Order, Unity &amp; Peace in the Kirk, for maintaining that reſpect which is due to the Ordi<g ref="char:EOLhyphen"/>nances and Miniſters of Jeſus Chriſt, for preventing Schiſm, noyſome Errours, and all unlawfull practices which may follow on the peoples with-drawing them<g ref="char:EOLhyphen"/>ſelves from their own Congregations, Doth charge e<g ref="char:EOLhyphen"/>very Miniſter to be diligent in fulfilling his Miniſterie, to be holy and grave in his converſation, to be faithfull in preaching, declaring the whole counſell of God, and as he hath occaſion from the Text of Scripture, to re<g ref="char:EOLhyphen"/>prove the ſins and errours, and preſſe the duties of the time; and in all thoſe, to obſerve the rules preſcribed by the Acts of Aſſembly; wherein if he be negligent, he is to be cenſured by his own Preſbytery. As alſo ordains every Member in every congregation, to keep their own
+<pb n="15" facs="tcp:160484:8"/>
+Paroch Kirk, to communicate there in the Word and Sacraments: And if any perſon or perſons ſhall here<g ref="char:EOLhyphen"/>after uſually abſent themſelves from their own Congre<g ref="char:EOLhyphen"/>gations, except in urgent caſes made known to, and ap<g ref="char:EOLhyphen"/>proven by the Presbytery, The Miniſters of theſe Con<g ref="char:EOLhyphen"/>gations whereto they reſort, ſhall both in publike by preaching, and in private by admonition, ſhew their diſ<g ref="char:EOLhyphen"/>like of their withdrawing from their own Miniſter; That in ſo doing, they may witneſſe to all that hear them, their due care to ſtrengthen the hands of their fellow-labourers in the work of the Lord, and their de<g ref="char:EOLhyphen"/>teſtation of any thing that may tend to ſeparation, or any of the above-mentioned evils; Hereby their own Flock will be confirmed in their ſtedfaſtneſſe, and the unſtable ſpirits of others will be rectified. Like as the Miniſter of that Congregation from which they do withdraw, ſhall labour firſt by private admonition to re<g ref="char:EOLhyphen"/>claim them; And if any after private admonition given by their own Paſtour do not amend, in that caſe the Pa<g ref="char:EOLhyphen"/>ſtour ſhall delate the foreſaid perſons to the Seſſion, who ſhall cite and cenſure them as contemners of the comely Order of the Kirk; And if the matter be not taken order with there, It is to be brought to the Presbytery: For the better obſerving whereof, the Presbyteries at the Viſitation of their ſeveral Kirks, and Provincial Aſſem<g ref="char:EOLhyphen"/>blies, in their cenſure of the ſeveral Presbyteries, ſhall inquire hereanent; Which Inquiry and Report ſhall be regiſtrate in the Provincial Books, that their diligence may be ſeen in the General Aſſembly.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
